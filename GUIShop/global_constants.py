@@ -1,0 +1,5 @@
+DB_FOLDER_NAME = 'db'
+PRODUCTS_IMAGES_FOLDER_NAME = 'images'
+USERS_FILE_NAME = 'users.txt'
+SESSION_FILE_NAME = 'session.txt'
+PRODUCTS_FILE_NAME = 'products.txt'
